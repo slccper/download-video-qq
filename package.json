@@ -1,0 +1,11 @@
+{
+  "name": "video-qq",
+  "version": "1.0.0",
+  "scripts": {
+    "down": "node app/download.js"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "fs": "^0.0.1-security"
+  }
+}
